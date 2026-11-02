@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the archived release below."
+title: "Net-carbon intelligent control for water-energy-carbon synergy in wastewater treatment plants - an accelerated digital-twin kernel"
+authors:
+  - family-names: Ren
+    given-names: Jiashu
+  - family-names: Fang
+    given-names: Ying
+year: 2026
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/[GitHub 用户名]/netcarbon-twin-kernel"
