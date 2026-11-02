@@ -1,0 +1,7 @@
+OFFICIAL: stabilize 23.5s  simulate 23.1s  (20017 steps, 867 steps/s)
+  EQI=5810.8 (day-mean 4751.9)  AE=3341.4 PE=388.2 ME=240.0 kWh/d
+  eff Q=19919.0 SNH=1.557 SNO=11.251 TSS=12.345
+MINE    : simulate 1.2s  (20016 steps, 16277 steps/s)  [18.8x faster]
+  EQI=5779.5 (day-mean 4705.4)  AE=3341.4 PE=388.2 ME=240.0 kWh/d
+  eff Q=19919.0 SNH=1.159 SNO=11.389 TSS=12.444
+DELTA: EQI -31.3  SNH -0.3979  SNO +0.1382  TSS +0.0987  AE +0.00  PE -0.00  ME +0.00
